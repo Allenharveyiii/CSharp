@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>&lt; 12POINTS.txt</StartArguments>
+    <StartWorkingDirectory>C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\AlgorithmsProject1\AlgorithmsProject1\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartWorkingDirectory>C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\AlgorithmsProject1\AlgorithmsProject1\obj\Release\</StartWorkingDirectory>
+    <StartArguments>&lt; 11POINTS.txt</StartArguments>
+  </PropertyGroup>
+</Project>

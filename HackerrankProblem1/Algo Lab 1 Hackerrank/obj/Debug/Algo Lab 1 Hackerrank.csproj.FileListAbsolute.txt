@@ -1,0 +1,7 @@
+C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\Algo Lab 1 Hackerrank\Algo Lab 1 Hackerrank\bin\Debug\Algo Lab 1 Hackerrank.exe.config
+C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\Algo Lab 1 Hackerrank\Algo Lab 1 Hackerrank\bin\Debug\Algo Lab 1 Hackerrank.exe
+C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\Algo Lab 1 Hackerrank\Algo Lab 1 Hackerrank\bin\Debug\Algo Lab 1 Hackerrank.pdb
+C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\Algo Lab 1 Hackerrank\Algo Lab 1 Hackerrank\obj\Debug\Algo Lab 1 Hackerrank.csprojResolveAssemblyReference.cache
+C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\Algo Lab 1 Hackerrank\Algo Lab 1 Hackerrank\obj\Debug\Algo Lab 1 Hackerrank.csproj.CoreCompileInputs.cache
+C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\Algo Lab 1 Hackerrank\Algo Lab 1 Hackerrank\obj\Debug\Algo Lab 1 Hackerrank.exe
+C:\Users\Watson PC\Documents\Visual Studio 2017\Projects\Algo Lab 1 Hackerrank\Algo Lab 1 Hackerrank\obj\Debug\Algo Lab 1 Hackerrank.pdb

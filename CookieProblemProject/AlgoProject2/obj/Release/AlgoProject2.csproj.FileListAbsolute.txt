@@ -1,0 +1,6 @@
+\\etsulab1\users\WATSONAH\My Documents\Visual Studio 2015\Projects\AlgoProject2\AlgoProject2\bin\Release\AlgoProject2.exe.config
+\\etsulab1\users\WATSONAH\My Documents\Visual Studio 2015\Projects\AlgoProject2\AlgoProject2\bin\Release\AlgoProject2.exe
+\\etsulab1\users\WATSONAH\My Documents\Visual Studio 2015\Projects\AlgoProject2\AlgoProject2\bin\Release\AlgoProject2.pdb
+\\etsulab1\users\WATSONAH\My Documents\Visual Studio 2015\Projects\AlgoProject2\AlgoProject2\obj\Release\AlgoProject2.csprojResolveAssemblyReference.cache
+\\etsulab1\users\WATSONAH\My Documents\Visual Studio 2015\Projects\AlgoProject2\AlgoProject2\obj\Release\AlgoProject2.exe
+\\etsulab1\users\WATSONAH\My Documents\Visual Studio 2015\Projects\AlgoProject2\AlgoProject2\obj\Release\AlgoProject2.pdb
