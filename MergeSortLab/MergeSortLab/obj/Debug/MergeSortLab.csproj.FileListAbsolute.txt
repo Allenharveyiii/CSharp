@@ -1,0 +1,6 @@
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\bin\Debug\MergeSortLab.exe.config
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\bin\Debug\MergeSortLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\bin\Debug\MergeSortLab.pdb
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\obj\Debug\MergeSortLab.csprojResolveAssemblyReference.cache
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\obj\Debug\MergeSortLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\obj\Debug\MergeSortLab.pdb

@@ -1,0 +1,13 @@
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\bin\Release\MergeSortLab.exe.config
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\bin\Release\MergeSortLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\bin\Release\MergeSortLab.pdb
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\obj\Release\MergeSortLab.csprojResolveAssemblyReference.cache
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\obj\Release\MergeSortLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2017\Projects\MergeSortLab\MergeSortLab\obj\Release\MergeSortLab.pdb
+C:\Users\Trey\Desktop\Algo Labs\MergeSortLab(Almost Checked)\MergeSortLab\bin\Release\MergeSortLab.exe.config
+C:\Users\Trey\Desktop\Algo Labs\MergeSortLab(Almost Checked)\MergeSortLab\bin\Release\MergeSortLab.exe
+C:\Users\Trey\Desktop\Algo Labs\MergeSortLab(Almost Checked)\MergeSortLab\bin\Release\MergeSortLab.pdb
+C:\Users\Trey\Desktop\Algo Labs\MergeSortLab(Almost Checked)\MergeSortLab\obj\Release\MergeSortLab.csprojResolveAssemblyReference.cache
+C:\Users\Trey\Desktop\Algo Labs\MergeSortLab(Almost Checked)\MergeSortLab\obj\Release\MergeSortLab.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\Algo Labs\MergeSortLab(Almost Checked)\MergeSortLab\obj\Release\MergeSortLab.exe
+C:\Users\Trey\Desktop\Algo Labs\MergeSortLab(Almost Checked)\MergeSortLab\obj\Release\MergeSortLab.pdb
