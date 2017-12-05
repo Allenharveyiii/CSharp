@@ -1,0 +1,5 @@
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\StingMatchingLab\StingMatchingLab\bin\Release\StingMatchingLab.exe.config
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\StingMatchingLab\StingMatchingLab\bin\Release\StingMatchingLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\StingMatchingLab\StingMatchingLab\bin\Release\StingMatchingLab.pdb
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\StingMatchingLab\StingMatchingLab\obj\Release\StingMatchingLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\StingMatchingLab\StingMatchingLab\obj\Release\StingMatchingLab.pdb
