@@ -1,0 +1,7 @@
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\bin\Release\HeapInsertLab.exe.config
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\bin\Release\HeapInsertLab.exe
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\bin\Release\HeapInsertLab.pdb
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Release\HeapInsertLab.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Release\HeapInsertLab.exe
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Release\HeapInsertLab.pdb
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Release\HeapInsertLab.csprojResolveAssemblyReference.cache

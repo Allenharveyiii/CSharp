@@ -1,0 +1,13 @@
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\HeapInsertLab\HeapInsertLab\bin\Debug\HeapInsertLab.exe.config
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\HeapInsertLab\HeapInsertLab\bin\Debug\HeapInsertLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\HeapInsertLab\HeapInsertLab\bin\Debug\HeapInsertLab.pdb
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\HeapInsertLab\HeapInsertLab\obj\Debug\HeapInsertLab.csprojResolveAssemblyReference.cache
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\HeapInsertLab\HeapInsertLab\obj\Debug\HeapInsertLab.exe
+\\etsulab1\users\watsonah\my documents\visual studio 2015\Projects\HeapInsertLab\HeapInsertLab\obj\Debug\HeapInsertLab.pdb
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\bin\Debug\HeapInsertLab.exe.config
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\bin\Debug\HeapInsertLab.exe
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\bin\Debug\HeapInsertLab.pdb
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Debug\HeapInsertLab.csprojResolveAssemblyReference.cache
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Debug\HeapInsertLab.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Debug\HeapInsertLab.exe
+C:\Users\Trey\Desktop\Algo Labs\Heap Insert Lab(Almost Checked)\HeapInsertLab\HeapInsertLab\obj\Debug\HeapInsertLab.pdb
